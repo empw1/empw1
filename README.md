@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Ricardo</h1>
+<h1 align="center">Hi! 👋, My name is Ricardo</h1>
 <h3 align="center">Um apaixonado pela área QA/Automação!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empw1&label=Profile%20views&color=0e75b6&style=flat" alt="empw1" /> </p>
