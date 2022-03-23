@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A passionate tester developer from Brazil!</h3>
+<h1 align="center">Oi 👋, Eu sou o Ricardo</h1>
+<h3 align="center">Um apaixonado pela área QA/Automação!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empw1&label=Profile%20views&color=0e75b6&style=flat" alt="empw1" /> </p>
 
 - 🔭 I’m currently working on **MOAI/Dock**
 
-- 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby and others!!!**
-
-- 👯 I’m looking to collaborate on **Test Projects**
+- 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby, Cucumber, Gherkin, Azure**
 
 - 📫 How to reach me **ricksilvatore@gmail.com**
 
