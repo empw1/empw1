@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MOAI/Dock**
 
-- 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby, Cucumber, Gherkin, Azure**
+- 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby, Cucumber, Gherkin, Allure**
 
 
 <h3 align="left">Connect with me:</h3>
