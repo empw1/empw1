@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empw1&label=Profile%20views&color=0e75b6&style=flat" alt="empw1" /> </p>
 
-- 🔭 I’m currently working on **MOAI/Dock**
+- 🔭 I’m currently working on **Auth/ELO/Dock**
 
-- 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby, Cucumber, Gherkin, Allure**
+- 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby, Cucumber, Gherkin, Allure, Javascript, Cyppress**
 
 
 <h3 align="left">Connect with me:</h3>
