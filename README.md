@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empw1&label=Profile%20views&color=0e75b6&style=flat" alt="empw1" /> </p>
 
-- 🔭 I’m currently working on **acquisition at @enjoei**
 
 - 🌱 I’m currently learning **Java, RestAssured, Appium, Selenium, Ruby, Cucumber, Gherkin, Allure, Javascript, Cyppress**
 
